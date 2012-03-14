@@ -1,0 +1,5 @@
+#header, #footer-wrapper, #breadcrumb { display: none; }
+.popup-only #page-wrapper { min-width: 0; background: white; }
+.popup-only #main, .popup-only #content { width: auto; }
+.group-left { width: 20%; }
+.group-right { width: 80%; }
